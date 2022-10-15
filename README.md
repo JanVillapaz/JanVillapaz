@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @JanVillapaz
+# 👋 Hi, I’m Jan
+---
+
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Java Springboot
 - 📫 How to reach me : Discord JanJan#3716
