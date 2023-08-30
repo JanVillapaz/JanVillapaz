@@ -3,9 +3,10 @@
 
 - 👀 Software Engineer
 - 🌱 I’m currently interested in Ethical hacking.
-- 📫 How to reach me : 
-- Discord : iamnotgian
-- Follow me on [Linkedin](https://www.linkedin.com/in/janvillapaz/)
+
+### 📫 How to reach me : 
+- [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/535222914023292948)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janvillapaz/)
 
 
 I have a BASc in Computer Science and Software Engineering from UQAM (2023). 
@@ -30,6 +31,7 @@ There is so much new technology coming up and I am always eager to learn them. J
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
