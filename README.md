@@ -1,14 +1,9 @@
 ## 👋 Hi, I’m Jan
 ---
 
-- 👀 Software Engineer
+- 👀 Software Developer
+- BASc Computer Science & Software Engineering
 - 🌱 I’m currently interested in Ethical hacking.
-
-
-I have a BASc in Computer Science and Software Engineering from UQAM (2023). 
-I am currently working as a Junior Software Developer.
-
-There is so much new technology coming up and I am always eager to learn them. Just looking for the time to do so.
 
 ### Framework + Library
 
