@@ -1,4 +1,6 @@
 ## 👋 Hi, I’m Jan
+
+![](https://komarev.com/ghpvc/?username=janvillapaz&style=flat-square&color=blueviolet)
 ---
 
 - 👀 Software Developer
