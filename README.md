@@ -6,6 +6,7 @@
 - 👀 Software Developer
 - BASc Computer Science & Software Engineering
 - 🌱 I’m currently interested in Ethical hacking.
+- Road to be a Java Expert
 
 ### Framework + Library
 
