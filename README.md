@@ -6,7 +6,8 @@
 - 👀 Software Developer
 - BASc Computer Science & Software Engineering
 - 🌱 I’m currently interested in Ethical hacking.
-- Road to be a Java Expert
+
+[![Resume](https://img.shields.io/badge/MY_RESUME-CV-purple)](https://janvillapaz.github.io/curriculum-vitae/)
 
 ### Framework + Library
 
