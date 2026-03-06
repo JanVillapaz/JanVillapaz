@@ -1,13 +1,11 @@
 ## 👋 Hi, I’m Jan
 
-![](https://komarev.com/ghpvc/?username=janvillapaz&style=flat-square&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=janvillapaz&style=flat-square&color=blueviolet) [![Resume](https://img.shields.io/badge/MY_RESUME-CV-purple)](https://janvillapaz.github.io/curriculum-vitae/)
 ---
 
-- 👀 Software Developer
+- Software Developer
 - BASc Computer Science & Software Engineering
-- 🌱 I’m currently interested in Ethical hacking.
-
-[![Resume](https://img.shields.io/badge/MY_RESUME-CV-purple)](https://janvillapaz.github.io/curriculum-vitae/)
+- I’m currently interested in Ethical hacking.
 
 ### Framework + Library
 
